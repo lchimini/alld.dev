@@ -2,7 +2,6 @@
 title: "Erro no Boot do Linux: File System Check (fsck) Requerido"
 date: 2025-02-11T11:30:03+00:00
 author: "Alessandro César Rosão"
-draft: true
 categories: [Linux, Solução de Problemas, Terminal]
 tags: [boot, fsck, linux, sistema de arquivos, erro de boot]
 ---
