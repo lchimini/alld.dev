@@ -1,5 +1,6 @@
 ---
-title: "Verificação e Reparo de Sistemas de Arquivos com `fsck` (File System Check (fsck) Requerido)"
+title: "Verificação e Reparo de Sistemas de Arquivos (File System Check (fsck) Requerido)"
+description: "O fsck (File System Check) é uma ferramenta essencial para verificar e reparar sistemas de arquivos em ambientes Unix/Linux. Neste post, exploramos como o fsck pode ajudar a identificar e corrigir inconsistências, especialmente após desligamentos abruptos ou falhas no sistema."
 date: 2025-02-11T11:30:03+00:00
 author: "Alessandro César Rosão"
 categories: ["Linux", "Solução de Problemas", "Terminal"]
