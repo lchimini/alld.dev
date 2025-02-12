@@ -1,6 +1,6 @@
 ---
 title: "Dominando a Estrutura de Diretórios do Linux: Guia Completo do FHS 3.0"
-date: 2020-09-15T11:30:03+00:00
+date: 2025-02-11T11:36:03+00:00
 author: "Alessandro César Rosão"
 categories: ["Linux", "Terminal", "FHS3.0"]
 tags: ["fhs", "terminal", "file system structure", "linux", "estrutura de diretorios"]
