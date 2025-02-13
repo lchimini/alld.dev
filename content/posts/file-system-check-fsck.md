@@ -2,7 +2,7 @@
 title: "Verificação e Reparo de Sistemas de Arquivos (File System Check (fsck) Requerido)"
 date: 2025-02-11T11:30:03+00:00
 author: "Alessandro César Rosão"
-categories: ["Linux", "Solução de Problemas", "Terminal"]
+categories: ["Linux", "Solução de Problemas", "Terminal", "Gerenciamento"]
 tags: ["boot error", "fsck", "linux", "sistema de arquivos", "erro de boot", "file system check"]
 ---
 
