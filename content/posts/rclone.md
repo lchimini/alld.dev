@@ -1,9 +1,9 @@
 ---
-title: "📡 Guia Completo do rclone: Domine a Sincronização de Nuvens com Comandos Avançados!"
+title: "Guia Completo do rclone: Domine a Sincronização de Nuvens com Comandos Avançados!"
 date: 2025-02-18T11:36:03+00:00
 author: "Alessandro César Rosão"
 categories: ["Linux", "Terminal", "Rclone"]
-tags: ["rclone", "terminal", "linux"]
+tags: ["rclone", "terminal", "linux", "sincronizacao"]
 ---
 
 # 🚀 Introdução ao rclone
