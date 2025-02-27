@@ -113,11 +113,11 @@ Adicionar abaixo do `server{}` já existente no arquivo `.conf` do seu site.
 server {
     # Porta e protocolo
     listen 443 ssl http2;
-    server_name lab.rosso.skydemo.com.br www.lab.rosso.skydemo.com.br;
+    server_name SEUDOMINIO.COM www.SEUDOMINIO.COM;
 
     # Certificados SSL (substitua pelos caminhos corretos)
-    ssl_certificate /etc/letsencrypt/live/lab.rosso.skydemo.com.br/fullchain.pem;
-    ssl_certificate_key /etc/letsencrypt/live/lab.rosso.skydemo.com.br/privkey.pem;
+    ssl_certificate /etc/letsencrypt/live/SEUDOMINIO.COM/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/SEUDOMINIO.COM/privkey.pem;
 
     # Configurações de segurança SSL
     ssl_protocols TLSv1.2 TLSv1.3;  # Suporta apenas TLS 1.2 e 1.3 (mais seguro)
@@ -140,7 +140,7 @@ server {
     add_header Referrer-Policy "strict-origin";  # Controla o envio de referrer
 
     # Diretório raiz do site (substitua pelo caminho correto)
-    root /var/www/lab.rosso.skydemo.com.br;
+    root /var/www/SEUDOMINIO.COM;
     index index.html index.htm;
 
     # Configuração de localização padrão
